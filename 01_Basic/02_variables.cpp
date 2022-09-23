@@ -16,9 +16,9 @@ using namespace std ;
 
    // Using Variables inside a Sentence
 
-   cout<<"The no"<<e<<"is Written Between the line \n";
+   cout<<"The no "<<e<<" is Written Between the line \n";
 
-   // 
+   // Tking Input From user and Storing the Data 
 
 
     int a , b , c ;
