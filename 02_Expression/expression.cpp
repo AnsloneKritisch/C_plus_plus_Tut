@@ -2,7 +2,7 @@
 #include <conio.h>
 using namespace std ;
 
-
+#define n "\n \n"
 
  int main()
  {
@@ -18,24 +18,33 @@ using namespace std ;
     c = a + b ;
 
     cout<<"Sum of a and b is "<<c;
+    cout<<n;
 
     
     c = a - b ;
 
     cout<<"Substraction of a and b is "<<c;
+    cout<<n;
+
 
     
     c = a * b ;
 
-    cout<<"Sum of a and b is "<<c;
+    cout<<"Multiplication of a and b is "<<c;
+    cout<<n;
+
 
     c = a / b ;
 
-    cout<<"Sum of a and b is "<<c;
+    cout<<"Division of a and b is "<<c;
+    cout<<n;
+
 
     c = a % b ;
 
-    cout<<"Sum of a and b is "<<c;
+    cout<<"Remainder of a and b is "<<c;
+    cout<<n;
+
 
     
 
