@@ -1,0 +1,71 @@
+constructor -> is a special type of function >>which is automatically called in object creation 
+
+function -> it helps to initialize the object
+
+
+class A 
+{
+    A()
+    {
+        work 
+    }
+
+}
+
+
+main()
+{
+    A obj ;
+}
+
+
+
+----------------------------------------------------------------
+
+class A 
+{
+    void b()
+    {
+        work 
+    }
+}
+
+main
+{
+    A obj ;
+
+    obj.b() ;
+
+}
+
+-----------------------------------------------------------------------------
+
+constructor types :-
+
+1> Default constructor
+2> Parameter 
+3> Copy 
+
+
+------------------------------------------------------------------------------
+
+why do we need destructor ??
+
+when we create constructor it occpies some amount of space even if we are not using it 
+therefore to delete / delocate the space we use   destructorfa-spin
+
+destructor -> are special type of member which use to deallocate the the memory use by constructor 
+
+Class A
+{
+    A()
+    {
+        //work 
+    }
+
+    ~A()
+    {
+        
+    }
+
+}

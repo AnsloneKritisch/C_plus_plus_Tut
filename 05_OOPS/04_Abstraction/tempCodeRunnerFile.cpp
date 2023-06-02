@@ -1,0 +1,1 @@
+ cout << obj.acc<< '\n';

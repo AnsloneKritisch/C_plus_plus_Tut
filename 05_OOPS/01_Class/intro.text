@@ -1,0 +1,21 @@
+Class -> User Define datatype >> it has it's own data members and functions which 
+ can be accessed using objects 
+
+
+Syntax :-
+
+class class_name
+{
+    // data members -> access specifiaction ; [private]
+    public: 
+
+    // member functions 
+
+}
+
+
+Object -> is a " instance of a class" -> that have access to all the function and behavior of a class 
+
+How to create an object ?
+
+Syntax :  class_name object_name;

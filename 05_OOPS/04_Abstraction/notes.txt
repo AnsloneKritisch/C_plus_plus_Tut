@@ -1,0 +1,2 @@
+Abstraction -> it is a technique by which only nessary data is shown to the user and unnessary data is hidden.
+

@@ -1,0 +1,9 @@
+Access Specifier -> Accessibility 
+
+private(by default) -> class itself 
+                    -> friend of class  ( limited access)
+
+protected -> class itself
+          -> inherit (not limit )
+
+public -> anyone can access it 

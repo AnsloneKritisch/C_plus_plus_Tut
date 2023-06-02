@@ -1,0 +1,53 @@
+c++ > intermediate level language , oops , mixture of high and low level language
+Bjarne Stroustrup Bell Laboratories in 1979
+
+c -> proceduarl , top down , data can move freely , expansion of program difficult 
+
+
+3 types of data type ->
+built in -> int float
+derived -> array function 
+user defined -> structure , union
+
+
+
+class -> user defined datatype which  store lot of function which we create and , which we can use later by using objects
+
+object -> states the behavior of the class , we can use all the function inside the class using object
+
+Accessibitly -> private protected public
+
+contruction -> is a special type of function which automatically called while object creation 
+
+it main funtion is to initialize the object 
+type -> default , parameter , copy
+
+destructor -> deallocate the memory which is allocated by constructor 
+
+friend -> can acess private and protected member of class
+ friend void anshu (clas , ref)
+friend class bhi same hota hai
+
+friend class Anshu ;
+
+Abstraction by which only nessary data is shown to the user rest are hidden 
+
+Ecapsulation -> help to wrap data members into single function
+main work is to secure data 
+
+Inheretance when one class acess property of another class 
+single , multi , heirarchal inheretance 
+class A : public class b 
+class A : public b , public a 
+
+polymorphism -> same object having same behavior
+
+compile time poly -a, overloading 
+more than one fuction with saem or different parametertfa-spin
+
+run time poly morphis overriding 
+
+when class and its function are repeated then the class which is formed later replace the class formed before it
+
+
+
