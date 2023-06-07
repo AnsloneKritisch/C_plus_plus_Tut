@@ -18,7 +18,7 @@ class A
 
 int main()
 {
-    A obj ;
+    A obj ; // classname obj 
     
     return 0;
 }
